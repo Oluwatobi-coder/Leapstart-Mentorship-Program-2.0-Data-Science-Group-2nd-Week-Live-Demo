@@ -63,7 +63,7 @@ Make sure you have Python 3.12+ and pip installed. Also, IDE (VSCode, PyCharm, e
 
 ## 📊 Dataset
 
-The project uses the **Adult Income Prediction Dataset** from the Kaggle Website. The dataset contains 15 demographic features to predict whether an individual's income is above or below $50k/year.
+The project uses the **Adult Income Prediction Dataset** from the Kaggle Website. The dataset contains 14 features to predict whether an individual's income is above or below $50k/year.
 
 * **Source:** [Kaggle: Adult Income Prediction Dataset](https://www.kaggle.com/datasets/mosapabdelghany/adult-income-prediction-dataset?select=adult.csv)
 * A copy of the dataset (`adult.csv`) is included in the `/data` directory for convenience.
