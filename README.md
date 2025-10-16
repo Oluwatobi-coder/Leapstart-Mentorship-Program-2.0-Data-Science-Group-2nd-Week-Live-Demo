@@ -1,6 +1,7 @@
 # Data Science Mentorship Program - Week 2 Live Demo
 
-A hands-on demonstration of **Exploratory Data Analysis (EDA)** using the Adult Income Prediction dataset. This project serves as a training material for the program participants.
+A hands-on demonstration of **Exploratory Data Analysis (EDA)** using the Adult Income Prediction dataset. 
+This project serves as a training material for the program participants.
 
 ---
 
