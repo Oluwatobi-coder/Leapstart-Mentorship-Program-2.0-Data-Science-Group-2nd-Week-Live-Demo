@@ -15,13 +15,25 @@ This repository contains the code and data for our Week 2 live session. The goal
 
 ---
 
+## 💻 Technologies Used
+
+This project was developed using Python and several key data science libraries:
+
+* **Python 3.12+**
+* **Pandas:** For data manipulation and analysis.
+* **Matplotlib:** For creating visualizations.
+* **Seaborn:** For high-level statistical data visualization.
+* **Jupyter Notebook:** As the development environment.
+
+---
+
 ## 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-Make sure you have Python 3.8+ and pip installed. Also, IDE (VSCode, PyCharm, etc.) should be installed.
+Make sure you have Python 3.12+ and pip installed. Also, IDE (VSCode, PyCharm, etc.) should be installed.
 
 ### Installation
 
@@ -44,7 +56,7 @@ Make sure you have Python 3.8+ and pip installed. Also, IDE (VSCode, PyCharm, et
     ```sh
     cd analysis_code
     ```
-2.  Open the `data_analysis.ipynb` file located in the `analysis_code/` directory.
+2.  Open the `data_analysis.ipynb` notebook file located in the `analysis_code/` directory.
 3.  Run each cell.
 
 ---
